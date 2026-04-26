@@ -1,6 +1,8 @@
 {
   "app.css": "/communityobedience-dev/css/app.55db306be406c8b4.css",
-  "app.js": "/communityobedience-dev/js/app.0f9f74e72adeeddc.js",
+  "app.js": "/communityobedience-dev/js/app.70167e5cdad7170b.js",
   "assets/golden-paper.webp": "/communityobedience-dev/assets/e0996a702438bb8c.webp",
-  "sw.js": "/communityobedience-dev/sw.js"
+  "sw.js": "/communityobedience-dev/sw.js",
+  "assets/Icon.png": "/communityobedience-dev/assets/32ace42e0afafec3.png",
+  "assets/AppleIcon.png": "/communityobedience-dev/assets/b16d1dfcbef103cb.png"
 }
